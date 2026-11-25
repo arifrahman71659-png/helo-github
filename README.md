@@ -9,3 +9,4 @@ Halo! Ini adalah repository GitHub pertama saya.
   
 ## Tujuan 
 Belajar menggunakan Git dan GitHub. 
+menjadi orang pintar
